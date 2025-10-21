@@ -5,12 +5,12 @@ This is an eCommerce html template made by codewithsadee
 
 #---------- HEADER ----------#
 
-aria-label = toggle manu
+aria-label = toggle menu
 
 <ion-icon name="menu-outline" aria-hidden="true" class="menu-icon"></ion-icon>
 <ion-icon name="close-outline" aria-label="true" class="close-icon"></ion-icon>
 
-Kitter
+PawPalace
 
 Home
 Shop
@@ -99,34 +99,34 @@ aria-label = add to card
 <ion-icon name="star" aria-hidden="true"></ion-icon>
 (1)
 Commodo leo sed porta
-$15.00
+₹15.00
 
 alt = Purus consequat congue sit
 
 (0)
 Purus consequat congue sit
-$45.00
+₹45.00
 
 alt = Morbi vel arcu scelerisque
 
 Morbi vel arcu scelerisque
-$45.00
+₹45.00
 
-$49.00
+₹49.00
 
-$85.00
+₹85.00
 
 alt = Nam justo libero porta ege
 
 Nam justo libero porta ege
-$85.00
+₹85.00
 
-$85.00
+₹85.00
 
 alt = Etiam commodo leo sed
 
 Etiam commodo leo sed
-$55.00
+₹55.00
 
 
 
@@ -139,7 +139,7 @@ alt = service icon
 
 Free Same-Day Delivery
 
-Order by 2pm local time to get free delivery on orders $35+ today.
+Order by 2pm local time to get free delivery on orders ₹35+ today.
 
 30 Day Return
 
@@ -147,11 +147,11 @@ Order by 2pm local time to get free delivery on orders $35+ today.
 
 Security payment
 
-25% off your online order of $50+. Available at most locations.
+25% off your online order of ₹50+. Available at most locations.
 
 24/7 Support
 
-Shop online to get orders over $35 shipped fast and free.
+Shop online to get orders over ₹35 shipped fast and free.
 
 
 
@@ -180,7 +180,7 @@ alt = brand logo
 
 #---------- FOOTER ----------#
 
-Kitter
+PawPalace
 
 If you have any question, please contact us at support@gmail.com
 
