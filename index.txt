@@ -1,4 +1,4 @@
-Kitter - Hight Quality Pet Food
+Pawpalace - Hight Quality Pet Food
 This is an eCommerce html template made by codewithsadee
 
 
@@ -163,7 +163,7 @@ alt = taste guarantee
 
 Taste it, love it or we’ll replace it… Guaranteed!
 
-At Petio, we believe your dog and cat will love their food so much that if they don’t … we’ll help you find a replacement. That’s our taste guarantee.
+At PawPalace, we believe your dog and cat will love their food so much that if they don’t … we’ll help you find a replacement. That’s our taste guarantee.
 
 Find out more
 
