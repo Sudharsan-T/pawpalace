@@ -134,8 +134,3 @@ Frontend Developer | UI/UX Enthusiast | Open Source Contributor
 
 This project is licensed under the **MIT License** — feel free to use and modify it for learning or personal projects.
 
----
-
-## ✨ Short Description
-
-> **Short Description:** PawPalace is a fully responsive pet shop eCommerce website built using HTML, CSS, and JavaScript. It features a clean UI, modern layout, and interactive design to showcase produ
